@@ -1,6 +1,6 @@
 ## Drag-and-Drop 🧑‍💻
 <p align="center">
- <img src="https://giphy.com/gifs/thecodingspacerd-code-coding-codecodecode-KEYMsj2LcXzfcTP5ii" width="385">
+ <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="385">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 </p>
 
