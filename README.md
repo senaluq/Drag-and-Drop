@@ -28,17 +28,9 @@ en este repositorio veremos disrintas clses de codigos y variables unos de ellos
 
 ## 📢 Eventos
 
-Diseñaremos y programaremos por grupos una serie de paginas para el evento de CBAGRO, un evento realizado por el Sena de esos grupos se elerira una pagina, y esta pagina quedara como la official del CBAAGRO 2022
-
+Se desarrolllo un Drag ahd Drog normal y uno personalizado por unos mismo, estos se realizaron segun las instrucciones del instructor 
 
 ## 💼 EVIDENCIAS: 
 
-* 4 verciones distintas de una serie de paginas. 
-* Maquetados Bootstrap.
-* Maquetados de paginas web donde veremos encabezado, menu aleatorio, cuerpo y un pie de pagina.
-* Modals 
-* SASS
-* Cards
-* Drap_Drog
-* Proyecto SASS_NAVBAR 
----
+* Drag and Drop 
+* Drag Drop Perzonalizado 
